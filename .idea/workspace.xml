@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17428225-29d5-496a-abbf-06e52968ec55" name="Changes" comment="Tema: Clases y Objetos.&#10;Objetivo: Resolución de ejercicios mediante la implementación de la clase de objetos e &#10;invocación a sus métodos de comportamiento.&#10;---------------------------------------------------------------------&#10;Actividad: Crea una clase Cuenta (bancaria) con atributos para el número de cuenta&#10;(un entero largo), el CI del cliente (cadena de texto), el saldo actual y el interés &#10;anual que se aplica a la cuenta (porcentaje). Define en la clase los siguientes métodos:&#10;----------------------------------------------------------------------&#10;• Constructor por defecto y constructor con parámetros de CI, saldo e interés&#10;• Métodos de acceso y modificadores para cada atributo de la clase Cuenta.&#10;• ActualizarSaldo(): actualizará el saldo de la cuenta aplicándole el interés &#10;diario (interés anual dividido entre 365 aplicado al saldo actual).&#10;• Acreditar(double): permitirá depositar una cantidad de dinero en la cuenta.&#10;• Debitar(double): permitirá sacar una cantidad de dinero de la cuenta (si hay &#10;saldo suficiente).&#10;• Método Impresión que nos permita mostrar todos los datos de la cuenta.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cuenta/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/metodos/Metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/opciones/Opciones.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GBCeBjKNuLsGAj3HiGCbIEFmyO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17428225-29d5-496a-abbf-06e52968ec55" name="Changes" comment="" />
+      <created>1665852685726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665852685726</updated>
+      <workItem from="1665852688171" duration="1120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tema: Clases y Objetos.&#10;Objetivo: Resolución de ejercicios mediante la implementación de la clase de objetos e &#10;invocación a sus métodos de comportamiento.&#10;---------------------------------------------------------------------&#10;Actividad: Crea una clase Cuenta (bancaria) con atributos para el número de cuenta&#10;(un entero largo), el CI del cliente (cadena de texto), el saldo actual y el interés &#10;anual que se aplica a la cuenta (porcentaje). Define en la clase los siguientes métodos:&#10;----------------------------------------------------------------------&#10;• Constructor por defecto y constructor con parámetros de CI, saldo e interés&#10;• Métodos de acceso y modificadores para cada atributo de la clase Cuenta.&#10;• ActualizarSaldo(): actualizará el saldo de la cuenta aplicándole el interés &#10;diario (interés anual dividido entre 365 aplicado al saldo actual).&#10;• Acreditar(double): permitirá depositar una cantidad de dinero en la cuenta.&#10;• Debitar(double): permitirá sacar una cantidad de dinero de la cuenta (si hay &#10;saldo suficiente).&#10;• Método Impresión que nos permita mostrar todos los datos de la cuenta." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema: Clases y Objetos.&#10;Objetivo: Resolución de ejercicios mediante la implementación de la clase de objetos e &#10;invocación a sus métodos de comportamiento.&#10;---------------------------------------------------------------------&#10;Actividad: Crea una clase Cuenta (bancaria) con atributos para el número de cuenta&#10;(un entero largo), el CI del cliente (cadena de texto), el saldo actual y el interés &#10;anual que se aplica a la cuenta (porcentaje). Define en la clase los siguientes métodos:&#10;----------------------------------------------------------------------&#10;• Constructor por defecto y constructor con parámetros de CI, saldo e interés&#10;• Métodos de acceso y modificadores para cada atributo de la clase Cuenta.&#10;• ActualizarSaldo(): actualizará el saldo de la cuenta aplicándole el interés &#10;diario (interés anual dividido entre 365 aplicado al saldo actual).&#10;• Acreditar(double): permitirá depositar una cantidad de dinero en la cuenta.&#10;• Debitar(double): permitirá sacar una cantidad de dinero de la cuenta (si hay &#10;saldo suficiente).&#10;• Método Impresión que nos permita mostrar todos los datos de la cuenta." />
+  </component>
+</project>
